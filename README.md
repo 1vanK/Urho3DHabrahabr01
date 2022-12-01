@@ -4,4 +4,4 @@
 
 ---
 
-*Более актуальаня версия находится тут: https://github.com/urho3d-learn/first-steps*
+*Более актуальная версия находится тут: https://github.com/urho3d-learn/first-steps*
